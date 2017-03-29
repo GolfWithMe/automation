@@ -1,0 +1,961 @@
+{
+  "courses": [
+    {
+      "id": 25008,
+      "status": "active",
+      "membership_type": "private",
+      "measurement_type": "yards",
+      "media_id": 11704,
+      "hole_count": 18,
+      "local_rank": 10,
+      "local_max_rank": 30,
+      "global_rank": 6623,
+      "global_max_rank": 31787,
+      "name": "Hollow Creek Golf Course At Glenbrook",
+      "addr_1": "50 Glenbrook Drive",
+      "city": "Middletown",
+      "state_or_province": "MD",
+      "country": "United States",
+      "zip_code": "21769",
+      "phone": "(301) 371-0400",
+      "website": "www.hollowcreekgc.com/?",
+      "thumbnail": "https://swingbyswing-b9.s3.amazonaws.com/photo/in-round/5385070/uploaded-photo1364643393-480x480.png",
+      "inserted": "2009-07-28T22:37:35+00:00",
+      "updated": "2017-01-14T20:28:39+00:00",
+      "holes": [],
+      "tee_types": [],
+      "location": {
+        "lat": 39.4354575926588,
+        "lng": -77.5304129719734
+      },
+      "extras": [],
+      "links": {
+        "distance_info": [
+          25008
+        ]
+      },
+      "href": "https://api.swingbyswing.com/v2/courses/25008?access_token=28f455e9-dc7b-46f8-8dd5-4047f1b49e6c",
+      "type": "course"
+    },
+    {
+      "id": 37741,
+      "status": "active",
+      "membership_type": "public",
+      "measurement_type": "yards",
+      "media_id": 75806,
+      "hole_count": 18,
+      "local_rank": 12,
+      "local_max_rank": 17,
+      "global_rank": 12038,
+      "global_max_rank": 31787,
+      "name": "Sleepy Hollow Golf And Country Club",
+      "addr_1": "117 golf course drive",
+      "city": "Charles Town",
+      "state_or_province": "WV",
+      "country": "United States",
+      "zip_code": "25414",
+      "phone": "304.725.5210",
+      "website": "http://www.golfsleepyhollow.com/",
+      "thumbnail": "https://swingbyswing-b9.s3.amazonaws.com/photo/in-round/11092156/uploaded-photo72300459-360x480.png",
+      "inserted": "2010-06-03T09:21:56+00:00",
+      "updated": "2017-01-14T21:05:54+00:00",
+      "holes": [],
+      "tee_types": [],
+      "location": {
+        "lat": 39.3096553309529,
+        "lng": -77.8149229288101
+      },
+      "extras": [],
+      "links": {
+        "distance_info": [
+          37741
+        ]
+      },
+      "href": "https://api.swingbyswing.com/v2/courses/37741?access_token=28f455e9-dc7b-46f8-8dd5-4047f1b49e6c",
+      "type": "course"
+    },
+    {
+      "id": 36311,
+      "status": "inactive",
+      "membership_type": "public",
+      "measurement_type": "yards",
+      "hole_count": 18,
+      "local_rank": 999999,
+      "local_max_rank": 999999,
+      "global_rank": 999999,
+      "global_max_rank": 999999,
+      "name": "SLEPPY HOLLOW",
+      "addr_1": "Country Club RD",
+      "city": "CHARLES TOWN",
+      "state_or_province": "WV",
+      "country": "United States",
+      "zip_code": "25414",
+      "inserted": "2010-05-04T23:23:46+00:00",
+      "updated": "2017-01-14T05:31:54+00:00",
+      "holes": [],
+      "tee_types": [],
+      "location": {
+        "lat": 39.3162297,
+        "lng": -77.8218983
+      },
+      "extras": [],
+      "links": {
+        "distance_info": [
+          36311
+        ]
+      },
+      "href": "https://api.swingbyswing.com/v2/courses/36311?access_token=28f455e9-dc7b-46f8-8dd5-4047f1b49e6c",
+      "type": "course"
+    },
+    {
+      "id": 49645,
+      "status": "active",
+      "membership_type": "public",
+      "measurement_type": "yards",
+      "hole_count": 9,
+      "local_rank": 22,
+      "local_max_rank": 38,
+      "global_rank": 8317,
+      "global_max_rank": 31787,
+      "name": "Frederick Golf Club (Side 9)",
+      "addr_1": "5519 S. Renn Road",
+      "city": "Frederick",
+      "state_or_province": "MD",
+      "country": "United States",
+      "zip_code": "21703",
+      "phone": "(301) 846-0694",
+      "website": "www.frederickgolfclub.com/",
+      "inserted": "2011-06-04T20:21:56+00:00",
+      "updated": "2017-03-07T06:27:49+00:00",
+      "holes": [],
+      "tee_types": [],
+      "location": {
+        "lat": 39.3664979253565,
+        "lng": -77.483329474926
+      },
+      "extras": [],
+      "links": {
+        "distance_info": [
+          49645
+        ]
+      },
+      "href": "https://api.swingbyswing.com/v2/courses/49645?access_token=28f455e9-dc7b-46f8-8dd5-4047f1b49e6c",
+      "type": "course"
+    },
+    {
+      "id": 21802,
+      "status": "active",
+      "membership_type": "public",
+      "measurement_type": "yards",
+      "media_id": 71333,
+      "hole_count": 18,
+      "local_rank": 8,
+      "local_max_rank": 38,
+      "global_rank": 4199,
+      "global_max_rank": 31787,
+      "name": "Frederick Golf Club",
+      "addr_1": "5519 S Renn Rd",
+      "city": "Frederick",
+      "state_or_province": "MD",
+      "country": "United States",
+      "zip_code": "21703",
+      "phone": "(301) 846-0694",
+      "thumbnail": "https://swingbyswing-b9.s3.amazonaws.com/photo/in-round/10647442/uploaded-photo72921666-360x480.png",
+      "inserted": "2009-07-28T08:22:46+00:00",
+      "updated": "2017-01-14T20:20:52+00:00",
+      "holes": [],
+      "tee_types": [],
+      "location": {
+        "lat": 39.3641094797186,
+        "lng": -77.4816825985909
+      },
+      "extras": [],
+      "links": {
+        "distance_info": [
+          21802
+        ]
+      },
+      "href": "https://api.swingbyswing.com/v2/courses/21802?access_token=28f455e9-dc7b-46f8-8dd5-4047f1b49e6c",
+      "type": "course"
+    },
+    {
+      "id": 22010,
+      "status": "active",
+      "membership_type": "private",
+      "measurement_type": "yards",
+      "hole_count": 18,
+      "local_rank": 15,
+      "local_max_rank": 19,
+      "global_rank": 17755,
+      "global_max_rank": 31787,
+      "name": "Cress Creek Golf And  Country Club",
+      "addr_1": "100 Cress Creek Dr",
+      "city": "Shepherdstown",
+      "state_or_province": "WV",
+      "country": "United States",
+      "zip_code": "25443",
+      "phone": "(304) 876-3375",
+      "website": "www.cresscreek.com",
+      "inserted": "2009-07-28T20:05:29+00:00",
+      "updated": "2017-03-07T05:37:34+00:00",
+      "holes": [],
+      "tee_types": [],
+      "location": {
+        "lat": 39.4473867944301,
+        "lng": -77.8055244684219
+      },
+      "extras": [],
+      "links": {
+        "distance_info": [
+          22010
+        ]
+      },
+      "href": "https://api.swingbyswing.com/v2/courses/22010?access_token=28f455e9-dc7b-46f8-8dd5-4047f1b49e6c",
+      "type": "course"
+    },
+    {
+      "id": 36973,
+      "status": "active",
+      "membership_type": "private",
+      "measurement_type": "yards",
+      "media_id": 90759,
+      "hole_count": 18,
+      "local_rank": 11,
+      "local_max_rank": 32,
+      "global_rank": 7407,
+      "global_max_rank": 31787,
+      "name": "Maryland National Golf Club",
+      "addr_1": "8836 Hollow Road",
+      "city": "MiddletownMeyersville",
+      "state_or_province": "MD",
+      "country": "United States",
+      "zip_code": "21769",
+      "phone": "301.371.0000",
+      "website": "http://www.marylandnational.com/",
+      "thumbnail": "https://swingbyswing-b9.s3.amazonaws.com/photo/in-round/12578779/uploaded-photo80251687-480x270.png",
+      "inserted": "2010-05-15T12:06:28+00:00",
+      "updated": "2017-03-07T05:59:14+00:00",
+      "holes": [],
+      "tee_types": [],
+      "location": {
+        "lat": 39.4775290070192,
+        "lng": -77.5233748555183
+      },
+      "extras": [],
+      "links": {
+        "distance_info": [
+          36973
+        ]
+      },
+      "href": "https://api.swingbyswing.com/v2/courses/36973?access_token=28f455e9-dc7b-46f8-8dd5-4047f1b49e6c",
+      "type": "course"
+    },
+    {
+      "id": 60369,
+      "status": "active",
+      "membership_type": "public",
+      "measurement_type": "yards",
+      "media_id": 86659,
+      "hole_count": 18,
+      "local_rank": 27,
+      "local_max_rank": 31,
+      "global_rank": 22597,
+      "global_max_rank": 31787,
+      "name": "VFW Country Club (maryland)",
+      "addr_1": "5901 Old National Pike",
+      "city": "Frederick",
+      "state_or_province": "MD",
+      "country": "United States",
+      "zip_code": "21702",
+      "phone": "3016639768",
+      "website": "http://www.vfwpost3285.org/VFW_country_club/VFW_country_club_main.php",
+      "thumbnail": "https://swingbyswing-b9.s3.amazonaws.com/photo/in-round/9365908/uploaded-photo36167455-360x480.png",
+      "inserted": "2014-09-27T15:41:01+00:00",
+      "updated": "2017-03-07T06:56:08+00:00",
+      "holes": [],
+      "tee_types": [],
+      "location": {
+        "lat": 39.4186581695331,
+        "lng": -77.4633409827948
+      },
+      "extras": [],
+      "links": {
+        "distance_info": [
+          60369
+        ]
+      },
+      "href": "https://api.swingbyswing.com/v2/courses/60369?access_token=28f455e9-dc7b-46f8-8dd5-4047f1b49e6c",
+      "type": "course"
+    },
+    {
+      "id": 17821,
+      "status": "active",
+      "membership_type": "public",
+      "measurement_type": "yards",
+      "media_id": 68019,
+      "hole_count": 18,
+      "local_rank": 10,
+      "local_max_rank": 31,
+      "global_rank": 7123,
+      "global_max_rank": 31787,
+      "name": "Musket Ridge Golf Course",
+      "addr_1": "3555 Brethren Church Rd",
+      "city": "Myersville",
+      "state_or_province": "MD",
+      "country": "United States",
+      "zip_code": "21773",
+      "phone": "(301)293-9930",
+      "website": "www.musketridge.com",
+      "thumbnail": "https://swingbyswing-b9.s3.amazonaws.com/photo/in-round/9365908/uploaded-photo41825062-480x360.png",
+      "inserted": "2009-07-28T05:01:31+00:00",
+      "updated": "2017-01-14T20:11:08+00:00",
+      "holes": [],
+      "tee_types": [],
+      "location": {
+        "lat": 39.4920796089383,
+        "lng": -77.545492351055
+      },
+      "extras": [],
+      "links": {
+        "distance_info": [
+          17821
+        ]
+      },
+      "href": "https://api.swingbyswing.com/v2/courses/17821?access_token=28f455e9-dc7b-46f8-8dd5-4047f1b49e6c",
+      "type": "course"
+    },
+    {
+      "id": 27032,
+      "status": "inactive",
+      "membership_type": "unknown",
+      "measurement_type": "yards",
+      "hole_count": 9,
+      "local_rank": 999999,
+      "local_max_rank": 999999,
+      "global_rank": 999999,
+      "global_max_rank": 999999,
+      "name": "Eaglehead Country Club",
+      "addr_1": "682 Porter St",
+      "city": "Frederick",
+      "state_or_province": "MD",
+      "country": "United States",
+      "zip_code": "21701",
+      "inserted": "2009-07-29T00:20:32+00:00",
+      "updated": "2017-01-14T05:02:19+00:00",
+      "holes": [],
+      "tee_types": [],
+      "location": {
+        "lat": 39.432239,
+        "lng": -77.428908
+      },
+      "extras": [],
+      "links": {
+        "distance_info": [
+          27032
+        ]
+      },
+      "href": "https://api.swingbyswing.com/v2/courses/27032?access_token=28f455e9-dc7b-46f8-8dd5-4047f1b49e6c",
+      "type": "course"
+    },
+    {
+      "id": 20751,
+      "status": "active",
+      "membership_type": "public",
+      "measurement_type": "yards",
+      "media_id": 25162,
+      "hole_count": 18,
+      "local_rank": 1,
+      "local_max_rank": 20,
+      "global_rank": 4531,
+      "global_max_rank": 31787,
+      "name": "Locust Hill Golf Course",
+      "addr_1": "1 Saint Andrews Dr",
+      "city": "Charles Town",
+      "state_or_province": "WV",
+      "country": "United States",
+      "zip_code": "25414",
+      "phone": "(304) 728-7300",
+      "website": "http://www.locusthillgolf.com/",
+      "thumbnail": "https://swingbyswing-b9.s3.amazonaws.com/photo/in-round/6620131/uploaded-photo70148263-480x270.png",
+      "inserted": "2009-07-28T07:29:38+00:00",
+      "updated": "2017-01-14T20:18:07+00:00",
+      "holes": [],
+      "tee_types": [],
+      "location": {
+        "lat": 39.2881185509025,
+        "lng": -77.9028832912445
+      },
+      "extras": [],
+      "links": {
+        "distance_info": [
+          20751
+        ]
+      },
+      "href": "https://api.swingbyswing.com/v2/courses/20751?access_token=28f455e9-dc7b-46f8-8dd5-4047f1b49e6c",
+      "type": "course"
+    },
+    {
+      "id": 22664,
+      "status": "active",
+      "membership_type": "public",
+      "measurement_type": "yards",
+      "media_id": 38084,
+      "hole_count": 18,
+      "local_rank": 14,
+      "local_max_rank": 48,
+      "global_rank": 3290,
+      "global_max_rank": 31787,
+      "name": "Raspberry Falls Golf And Hunt Club",
+      "addr_1": "41601 Raspberry Dr",
+      "city": "Leesburg",
+      "state_or_province": "VA",
+      "country": "United States",
+      "zip_code": "20176",
+      "phone": "(703) 779-2555",
+      "website": "www.raspberryfalls.com",
+      "thumbnail": "https://swingbyswing-b9.s3.amazonaws.com/photo/in-round/6657622/uploaded-photo44088950-360x480.png",
+      "inserted": "2009-07-28T20:38:43+00:00",
+      "updated": "2017-01-14T20:22:58+00:00",
+      "holes": [],
+      "tee_types": [],
+      "location": {
+        "lat": 39.1610340213223,
+        "lng": -77.5609284639359
+      },
+      "extras": [],
+      "links": {
+        "distance_info": [
+          22664
+        ]
+      },
+      "href": "https://api.swingbyswing.com/v2/courses/22664?access_token=28f455e9-dc7b-46f8-8dd5-4047f1b49e6c",
+      "type": "course"
+    },
+    {
+      "id": 30178,
+      "status": "active",
+      "membership_type": "unknown",
+      "practice_area_id": 2465,
+      "measurement_type": "yards",
+      "media_id": 54196,
+      "hole_count": 18,
+      "local_rank": 19,
+      "local_max_rank": 50,
+      "global_rank": 6273,
+      "global_max_rank": 31787,
+      "name": "Worthington Manor Golf Club",
+      "addr_1": "8329 Fingerboard Rd",
+      "city": "Urbana",
+      "state_or_province": "MD",
+      "country": "United States",
+      "zip_code": "21704",
+      "phone": "301-874-5400",
+      "website": "www.worthingtonmanor.com",
+      "thumbnail": "https://swingbyswing-b9.s3.amazonaws.com/photo/in-round/403369/uploaded-photo69462289-480x270.png",
+      "inserted": "2009-08-28T12:56:28+00:00",
+      "updated": "2017-01-14T20:41:46+00:00",
+      "holes": [],
+      "tee_types": [],
+      "location": {
+        "lat": 39.3267123397769,
+        "lng": -77.3781305551529
+      },
+      "extras": [],
+      "links": {
+        "distance_info": [
+          30178
+        ]
+      },
+      "href": "https://api.swingbyswing.com/v2/courses/30178?access_token=28f455e9-dc7b-46f8-8dd5-4047f1b49e6c",
+      "type": "course"
+    },
+    {
+      "id": 38519,
+      "status": "inactive",
+      "membership_type": "semi-private",
+      "measurement_type": "yards",
+      "hole_count": 18,
+      "local_rank": 999999,
+      "local_max_rank": 999999,
+      "global_rank": 999999,
+      "global_max_rank": 999999,
+      "name": "Stonebridge Golf Course",
+      "addr_1": "Stonebridge Golf Course",
+      "addr_2": "1959 Golf Course Road",
+      "city": "Martinsburg",
+      "state_or_province": "WV",
+      "country": "United States",
+      "zip_code": "25401",
+      "phone": "1-888-393-4653",
+      "fees": "$30.00 - $40.00",
+      "description": "Located in the eastern panhandle of West Virginia, Stonebridge Golf Club offers a rewarding, highly affordable experience for golfers of all levels.\r\nThis 6262 yard golf course features two uniquely different 9-hole layouts, each providing players panoramic four-state views and a wide variety of shot-making challenges. The front nine features three par 5's and four lakes that come into play. The back nine is somewhat shorter and tighter with small undulating greens. With its lush fairways and outstanding putting surfaces, Stonebridge has become recognized as one of the area's \"best conditioned\" facilities.\r\n\r\nWe Invite the public to play our 18hole golf  course at Stonebridge in Martinsburg, WV and  dine at our fine  D.K.'s  restaurant & play our\r\ngolf  course and  restaurant Stonebridge golf club WV Golf  outings\r\n\r\nClub house and fine dinning\r\n\r\nStonebridge golf,  restaurant in the Panhandle   WV  close to MD & VA, Martinsburg. WV Golf \r\n\r\nDesigner: Bob Elder\r\nDirector of Golf: Keith Wagner",
+      "inserted": "2010-06-18T02:22:22+00:00",
+      "updated": "2017-01-14T05:40:15+00:00",
+      "holes": [],
+      "tee_types": [],
+      "location": {
+        "lat": 39.4405638476852,
+        "lng": -77.9214656352997
+      },
+      "extras": [],
+      "links": {
+        "distance_info": [
+          38519
+        ]
+      },
+      "href": "https://api.swingbyswing.com/v2/courses/38519?access_token=28f455e9-dc7b-46f8-8dd5-4047f1b49e6c",
+      "type": "course"
+    },
+    {
+      "id": 17098,
+      "status": "active",
+      "membership_type": "semi-private",
+      "practice_area_id": 1504,
+      "measurement_type": "yards",
+      "hole_count": 18,
+      "local_rank": 14,
+      "local_max_rank": 33,
+      "global_rank": 9505,
+      "global_max_rank": 31787,
+      "name": "Beaver Creek Country Club",
+      "addr_1": "9535 Mapleville Rd",
+      "city": "Hagerstown",
+      "state_or_province": "MD",
+      "country": "United States",
+      "zip_code": "21740",
+      "phone": "(301) 733-5152",
+      "website": "http://www.beavercreekcc.com/",
+      "inserted": "2009-07-28T04:24:57+00:00",
+      "updated": "2017-03-07T05:32:11+00:00",
+      "holes": [],
+      "tee_types": [],
+      "location": {
+        "lat": 39.576458491737,
+        "lng": -77.6424810290337
+      },
+      "extras": [],
+      "links": {
+        "distance_info": [
+          17098
+        ]
+      },
+      "href": "https://api.swingbyswing.com/v2/courses/17098?access_token=28f455e9-dc7b-46f8-8dd5-4047f1b49e6c",
+      "type": "course"
+    },
+    {
+      "id": 26420,
+      "status": "active",
+      "membership_type": "private",
+      "measurement_type": "yards",
+      "hole_count": 18,
+      "local_rank": 14,
+      "local_max_rank": 29,
+      "global_rank": 8141,
+      "global_max_rank": 31787,
+      "name": "Loudoun Golf and Country Club",
+      "addr_1": "36967 W. Main Street",
+      "city": "Purcellville",
+      "state_or_province": "VA",
+      "country": "United States",
+      "zip_code": "22132",
+      "phone": "(540) 338-7705",
+      "website": "http://www.loudoungcc.com/",
+      "inserted": "2009-07-28T23:49:13+00:00",
+      "updated": "2017-03-07T05:42:47+00:00",
+      "holes": [],
+      "tee_types": [],
+      "location": {
+        "lat": 39.135299075829,
+        "lng": -77.7281373739243
+      },
+      "extras": [],
+      "links": {
+        "distance_info": [
+          26420
+        ]
+      },
+      "href": "https://api.swingbyswing.com/v2/courses/26420?access_token=28f455e9-dc7b-46f8-8dd5-4047f1b49e6c",
+      "type": "course"
+    },
+    {
+      "id": 13705,
+      "status": "active",
+      "membership_type": "public",
+      "practice_area_id": 2787,
+      "measurement_type": "yards",
+      "media_id": 73461,
+      "hole_count": 18,
+      "local_rank": 2,
+      "local_max_rank": 33,
+      "global_rank": 1724,
+      "global_max_rank": 31787,
+      "name": "Clustered Spires Golf Course",
+      "addr_1": "8415 Gas House Pike",
+      "city": "Frederick",
+      "state_or_province": "MD",
+      "country": "United States",
+      "zip_code": "21701",
+      "phone": "(301)624-1295",
+      "thumbnail": "https://swingbyswing-b9.s3.amazonaws.com/photo/in-round/7881049/uploaded-photo41409183-480x360.png",
+      "inserted": "2009-07-28T01:34:16+00:00",
+      "updated": "2017-01-14T20:01:38+00:00",
+      "holes": [],
+      "tee_types": [],
+      "location": {
+        "lat": 39.4331518871023,
+        "lng": -77.372213602066
+      },
+      "extras": [],
+      "links": {
+        "distance_info": [
+          13705
+        ]
+      },
+      "href": "https://api.swingbyswing.com/v2/courses/13705?access_token=28f455e9-dc7b-46f8-8dd5-4047f1b49e6c",
+      "type": "course"
+    },
+    {
+      "id": 28880,
+      "status": "active",
+      "membership_type": "private",
+      "measurement_type": "yards",
+      "media_id": 97805,
+      "hole_count": 18,
+      "local_rank": 12,
+      "local_max_rank": 22,
+      "global_rank": 8607,
+      "global_max_rank": 31787,
+      "name": "Stoneleigh Golf Club",
+      "addr_1": "35271 Prestwick Ct",
+      "city": "Round Hill",
+      "state_or_province": "VA",
+      "country": "United States",
+      "zip_code": "22141",
+      "phone": "(540) 338-4653",
+      "website": "www.stoneleighgolf.com",
+      "thumbnail": "https://swingbyswing-b9.s3.amazonaws.com/photo/in-round/9692752/uploaded-photo84028180-480x270.png",
+      "inserted": "2009-07-29T01:54:24+00:00",
+      "updated": "2017-03-07T04:56:33+00:00",
+      "holes": [],
+      "tee_types": [],
+      "location": {
+        "lat": 39.1238992246351,
+        "lng": -77.783551812172
+      },
+      "extras": [],
+      "links": {
+        "distance_info": [
+          28880
+        ]
+      },
+      "href": "https://api.swingbyswing.com/v2/courses/28880?access_token=28f455e9-dc7b-46f8-8dd5-4047f1b49e6c",
+      "type": "course"
+    },
+    {
+      "id": 29275,
+      "status": "active",
+      "membership_type": "public",
+      "measurement_type": "yards",
+      "media_id": 67708,
+      "hole_count": 18,
+      "local_rank": 11,
+      "local_max_rank": 62,
+      "global_rank": 3091,
+      "global_max_rank": 31787,
+      "name": "Pb Dye Golf Club",
+      "addr_1": "9525 Doctor Perry Rd",
+      "city": "Ijamsville",
+      "state_or_province": "MD",
+      "country": "United States",
+      "zip_code": "21754",
+      "phone": "(301) 607-4653",
+      "website": "http://www.pbdyegolf.com/index.php",
+      "thumbnail": "https://swingbyswing-b9.s3.amazonaws.com/photo/in-round/10428913/uploaded-photo75648928-480x270.png",
+      "inserted": "2009-07-29T02:14:27+00:00",
+      "updated": "2017-01-14T20:40:05+00:00",
+      "holes": [],
+      "tee_types": [],
+      "location": {
+        "lat": 39.2910632289384,
+        "lng": -77.3395952582359
+      },
+      "extras": [],
+      "links": {
+        "distance_info": [
+          29275
+        ]
+      },
+      "href": "https://api.swingbyswing.com/v2/courses/29275?access_token=28f455e9-dc7b-46f8-8dd5-4047f1b49e6c",
+      "type": "course"
+    },
+    {
+      "id": 13707,
+      "status": "active",
+      "membership_type": "public",
+      "practice_area_id": 6247,
+      "measurement_type": "yards",
+      "hole_count": 18,
+      "local_rank": 5,
+      "local_max_rank": 54,
+      "global_rank": 2094,
+      "global_max_rank": 31787,
+      "name": "Westpark Golf Club",
+      "addr_1": "59 Club House Dr SW",
+      "city": "Leesburg",
+      "state_or_province": "VA",
+      "country": "United States",
+      "zip_code": "22075",
+      "phone": "(703) 777-7023",
+      "website": "www.westparkgc.com",
+      "inserted": "2009-07-28T01:34:22+00:00",
+      "updated": "2017-03-07T05:28:44+00:00",
+      "holes": [],
+      "tee_types": [],
+      "location": {
+        "lat": 39.1032732694577,
+        "lng": -77.5804281234741
+      },
+      "extras": [],
+      "links": {
+        "distance_info": [
+          13707
+        ]
+      },
+      "href": "https://api.swingbyswing.com/v2/courses/13707?access_token=28f455e9-dc7b-46f8-8dd5-4047f1b49e6c",
+      "type": "course"
+    }
+  ],
+  "meta": {
+    "courses": {
+      "total": "61",
+      "from": "1",
+      "limit": "20",
+      "href": "https://api.swingbyswing.com/v2/courses/search_by_location?lat=39.353204&lng=-77.656983&radius=50&from=1&limit=20&access_token=28f455e9-dc7b-46f8-8dd5-4047f1b49e6c",
+      "next": "https://api.swingbyswing.com/v2/courses/search_by_location?lat=39.353204&lng=-77.656983&radius=50&from=21&limit=20&access_token=28f455e9-dc7b-46f8-8dd5-4047f1b49e6c"
+    }
+  },
+  "linked": {
+    "course_distances": [
+      {
+        "id": 25008,
+        "distance_from_me_kilometers": 14.23,
+        "distance_from_me_miles": 8.84,
+        "links": {
+          "course": [
+            25008
+          ]
+        },
+        "type": "course_distance"
+      },
+      {
+        "id": 37741,
+        "distance_from_me_kilometers": 14.44,
+        "distance_from_me_miles": 8.97,
+        "links": {
+          "course": [
+            37741
+          ]
+        },
+        "type": "course_distance"
+      },
+      {
+        "id": 36311,
+        "distance_from_me_kilometers": 14.78,
+        "distance_from_me_miles": 9.19,
+        "links": {
+          "course": [
+            36311
+          ]
+        },
+        "type": "course_distance"
+      },
+      {
+        "id": 49645,
+        "distance_from_me_kilometers": 15.02,
+        "distance_from_me_miles": 9.33,
+        "links": {
+          "course": [
+            49645
+          ]
+        },
+        "type": "course_distance"
+      },
+      {
+        "id": 21802,
+        "distance_from_me_kilometers": 15.14,
+        "distance_from_me_miles": 9.41,
+        "links": {
+          "course": [
+            21802
+          ]
+        },
+        "type": "course_distance"
+      },
+      {
+        "id": 22010,
+        "distance_from_me_kilometers": 16.53,
+        "distance_from_me_miles": 10.27,
+        "links": {
+          "course": [
+            22010
+          ]
+        },
+        "type": "course_distance"
+      },
+      {
+        "id": 36973,
+        "distance_from_me_kilometers": 17.99,
+        "distance_from_me_miles": 11.18,
+        "links": {
+          "course": [
+            36973
+          ]
+        },
+        "type": "course_distance"
+      },
+      {
+        "id": 60369,
+        "distance_from_me_kilometers": 18.18,
+        "distance_from_me_miles": 11.3,
+        "links": {
+          "course": [
+            60369
+          ]
+        },
+        "type": "course_distance"
+      },
+      {
+        "id": 17821,
+        "distance_from_me_kilometers": 18.19,
+        "distance_from_me_miles": 11.3,
+        "links": {
+          "course": [
+            17821
+          ]
+        },
+        "type": "course_distance"
+      },
+      {
+        "id": 27032,
+        "distance_from_me_kilometers": 21.5,
+        "distance_from_me_miles": 13.36,
+        "links": {
+          "course": [
+            27032
+          ]
+        },
+        "type": "course_distance"
+      },
+      {
+        "id": 20751,
+        "distance_from_me_kilometers": 22.38,
+        "distance_from_me_miles": 13.91,
+        "links": {
+          "course": [
+            20751
+          ]
+        },
+        "type": "course_distance"
+      },
+      {
+        "id": 22664,
+        "distance_from_me_kilometers": 22.94,
+        "distance_from_me_miles": 14.25,
+        "links": {
+          "course": [
+            22664
+          ]
+        },
+        "type": "course_distance"
+      },
+      {
+        "id": 30178,
+        "distance_from_me_kilometers": 24.19,
+        "distance_from_me_miles": 15.03,
+        "links": {
+          "course": [
+            30178
+          ]
+        },
+        "type": "course_distance"
+      },
+      {
+        "id": 38519,
+        "distance_from_me_kilometers": 24.74,
+        "distance_from_me_miles": 15.37,
+        "links": {
+          "course": [
+            38519
+          ]
+        },
+        "type": "course_distance"
+      },
+      {
+        "id": 17098,
+        "distance_from_me_kilometers": 24.88,
+        "distance_from_me_miles": 15.46,
+        "links": {
+          "course": [
+            17098
+          ]
+        },
+        "type": "course_distance"
+      },
+      {
+        "id": 26420,
+        "distance_from_me_kilometers": 25.02,
+        "distance_from_me_miles": 15.55,
+        "links": {
+          "course": [
+            26420
+          ]
+        },
+        "type": "course_distance"
+      },
+      {
+        "id": 13705,
+        "distance_from_me_kilometers": 26.06,
+        "distance_from_me_miles": 16.2,
+        "links": {
+          "course": [
+            13705
+          ]
+        },
+        "type": "course_distance"
+      },
+      {
+        "id": 28880,
+        "distance_from_me_kilometers": 27.76,
+        "distance_from_me_miles": 17.25,
+        "links": {
+          "course": [
+            28880
+          ]
+        },
+        "type": "course_distance"
+      },
+      {
+        "id": 29275,
+        "distance_from_me_kilometers": 28.19,
+        "distance_from_me_miles": 17.52,
+        "links": {
+          "course": [
+            29275
+          ]
+        },
+        "type": "course_distance"
+      },
+      {
+        "id": 13707,
+        "distance_from_me_kilometers": 28.59,
+        "distance_from_me_miles": 17.77,
+        "links": {
+          "course": [
+            13707
+          ]
+        },
+        "type": "course_distance"
+      }
+    ]
+  }
+}

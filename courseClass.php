@@ -23,7 +23,8 @@ class courseClass {
                 $course["location"]["lng"] . "', '" . $course["phone"] . "', '" . date("Y-m-d H:i:s") . "', '1')";
         echo $query . "\r\n";
         
-        //$result = mysql_execute($query);
+        $request = mysql_query($query);
+
     }
 
     function UpdateCourse($course)

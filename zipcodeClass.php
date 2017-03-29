@@ -13,4 +13,9 @@
  */
 class zipcodeClass {
     //put your code here
+    
+    function getZipcode($zipcode)
+    {
+        
+    }
 }

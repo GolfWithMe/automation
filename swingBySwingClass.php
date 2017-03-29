@@ -47,14 +47,14 @@ class swingBySwingClass {
         if (trim($this->token) == "")
             return -2;
         
-        if (trim($this->lat) == "" || trim($this->lon) == "")
+        if (trim($this->latitude) == "" || trim($this->longitude) == "")
             return -3;
         
         $requestURL = "https://api.swingbyswing.com/v2/courses/" . 
-                "search_by_location?lat=" . $this->lat . "&lng=" . $this->lng;
+                "search_by_location?lat=" . $this->latitude . "&lng=" . $this->longitude;
                 
         if ($this->results > 0) {
-            $requestURL .= "";
+            $requestURL .= "&" . $this->results;
         }
         
         if ($this->range > 0) {
@@ -62,6 +62,10 @@ class swingBySwingClass {
         }
         
         $requestURL .= "&access_token=" . $this->token;
+        
+        echo $requestURL . "\r\n";
+        
+        $this->results = file_get_contents($requestURL);
     }
     
     function getCourseByID($id)
